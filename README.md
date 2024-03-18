@@ -1,6 +1,6 @@
 # 🦖About Me:
 
-🔭 I’m currently working on Mental health tracker app<br>🤝 I’m looking for help with Flutterflow
+🦖Passionate coder
 
 
 ## 🌐 Contact me:
