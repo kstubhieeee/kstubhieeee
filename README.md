@@ -19,8 +19,11 @@
 ### ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
 
-
+###
 ---
 [![](https://visitcount.itsvg.in/api?id=kstubhieeee&icon=9&color=11)](https://visitcount.itsvg.in)
 
