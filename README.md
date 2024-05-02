@@ -13,6 +13,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kstubhieeee&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kstubhieeee&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=kstubhieeee&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 
