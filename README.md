@@ -5,27 +5,6 @@
 
 
 
-## Let's Connect🫱🏻‍🫲🏻:
-<div align="center">
-  <a href="https://www.linkedin.com/in/kstubhie/" target="_blank">
-    <img src="https://github.com/kstubhieeee/kstubhieeee/blob/main/linkedin-svgrepo-com.svg" width="63" height="50" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/kstubhiee" target="_blank">
-    <img src="https://github.com/kstubhieeee/kstubhieeee/blob/main/twitter-svgrepo-com.svg" width="63" height="50" alt="twitter logo"  />
-  </a>
-  <a href="https://discord.gg/UqRgRK9wXy" target="_blank">
-    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/discord/discord.svg" width="63" height="50" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/@kstubhie" target="_blank">
-    <img src="https://github.com/kstubhieeee/kstubhieeee/blob/main/youtube-color-svgrepo-com.svg" width="63" height="50" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/kstubhie" target="_blank">
-    <img src="https://github.com/kstubhieeee/kstubhieeee/blob/main/instagram-1-svgrepo-com.svg" width="63" height="50" alt="instagram logo"  />
-  <a href="https://in.pinterest.com/kstubhie/" target="_blank">
-    <img src="https://github.com/kstubhieeee/kstubhieeee/blob/main/pinterest-svgrepo-com.svg" width="63" height="50" alt="instagram logo"  />
-  </a>
-
-</div>
 
 ###
 
