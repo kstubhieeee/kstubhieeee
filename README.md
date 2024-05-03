@@ -21,6 +21,15 @@
   <a href="https://www.instagram.com/kstubhie" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="63" height="50" alt="instagram logo"  />
   </a>
+   <a href="">
+            <img class="pint" src="pinterest.png" alt="">
+        </a>
+        <style>
+            .pint{
+                height: 50;
+                
+            }
+        </style>
 </div>
 
 ###
