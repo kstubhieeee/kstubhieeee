@@ -5,7 +5,7 @@
 
 
 
-## 🌐 Contact me:
+## Let's Connect🫱🏻‍🫲🏻:
 <div align="center">
   <a href="https://www.linkedin.com/in/kstubhie/" target="_blank">
     <img src="https://github.com/kstubhieeee/kstubhieeee/blob/main/linkedin-svgrepo-com.svg" width="63" height="50" alt="linkedin logo"  />
@@ -29,7 +29,7 @@
 
 ###
 
-# 💻 Skills:
+# Toolbox🧑🏻‍💻:
 <br clear="both">
 
 <div align="center">
