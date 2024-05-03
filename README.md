@@ -78,8 +78,7 @@
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="microsoftsqlserver logo"  />
 </div>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kstubhieeee&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kstubhieeee&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 
