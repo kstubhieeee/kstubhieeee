@@ -80,7 +80,7 @@
 </div>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kstubhieeee&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kstubhieeee&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-profile-trophy.vercel.app/?username=kstubhieeee&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
 
 
 
