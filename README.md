@@ -75,9 +75,9 @@
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="microsoftsqlserver logo"  />
 </div>
-
+<img src="https://raw.githubusercontent.com/kstubhieeee/kstubhieeee/output/snake.svg" alt="Snake animation" />
 ###
-# 📊 GitHub Stats:
+###
 <a href="https://stats.hyochan.dev/en/stats/kstubhieeee"><img src="https://stats.hyochan.dev/api/github-stats?login=kstubhieeee" width="600" /></a><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kstubhieeee&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kstubhieeee&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
