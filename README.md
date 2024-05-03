@@ -1,8 +1,9 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
+![Poster](https://github.com/kstubhieeee/kstubhieeee/blob/main/n8agw6z2smyb1.gif)
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+
 
 ## 🌐 Contact me:
 <div align="center">
