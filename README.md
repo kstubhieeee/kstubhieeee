@@ -13,7 +13,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="63" height="50" alt="twitter logo"  />
   </a>
   <a href="https://discord.gg/UqRgRK9wXy" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="63" height="50" alt="discord logo"  />
+    <img src="https://github.com/kstubhieeee/kstubhieeee/blob/main/discord-v2-svgrepo-com.svg" width="63" height="50" alt="discord logo"  />
   </a>
   <a href="https://www.youtube.com/@kstubhie" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="63" height="50" alt="youtube logo"  />
