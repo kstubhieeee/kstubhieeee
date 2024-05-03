@@ -7,7 +7,7 @@
 
 
 ###
-<div style="text-align: center;">
+<div align: center>
   <h2>Toolbox🧑🏻‍💻:</h2>
   <br clear="both">
 </div>
