@@ -8,7 +8,57 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kstubhie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kstubhie) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/kstubhie) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/kstubhie) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kstubhiee) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kstubhie) 
 
 # 💻 Skills:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
+<br clear="both">
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=blender" height="50" alt="blender logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=dart" height="50" alt="dart logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="intellij logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="npm logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="50" alt="photoshop logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="50" alt="apache logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="microsoftsqlserver logo"  />
+</div>
+
+###
 # 📊 GitHub Stats:
 <a href="https://stats.hyochan.dev/en/stats/kstubhieeee"><img src="https://stats.hyochan.dev/api/github-stats?login=kstubhieeee" width="600" /></a><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kstubhieeee&theme=highcontrast&hide_border=false)<br/>
