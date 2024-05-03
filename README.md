@@ -7,9 +7,9 @@
 
 
 ###
-<div align="center">
-##Toolbox🧑🏻‍💻:
-<br clear="both">
+<div style="text-align: center;">
+  <h2>Toolbox🧑🏻‍💻:</h2>
+  <br clear="both">
 </div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
