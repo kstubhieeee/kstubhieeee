@@ -20,7 +20,7 @@
   </a>
   <a href="https://www.instagram.com/kstubhie" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="63" height="50" alt="instagram logo"  />
-  <a href="https://www.instagram.com/kstubhie" target="_blank">
+  <a href="https://in.pinterest.com/kstubhie/" target="_blank">
     <img src="https://github.com/kstubhieeee/kstubhieeee/blob/main/pinterest-svgrepo-com.svg" width="63" height="50" alt="instagram logo"  />
   </a>
 
