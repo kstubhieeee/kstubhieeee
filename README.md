@@ -5,7 +5,25 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 ## 🌐 Contact me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kstubhie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kstubhie) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/kstubhie) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/kstubhie) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kstubhiee) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kstubhie) 
+<div align="center">
+  <a href="https://www.linkedin.com/in/kstubhie/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="63" height="50" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/kstubhiee" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="63" height="50" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.gg/UqRgRK9wXy" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="63" height="50" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/@kstubhie" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="63" height="50" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/kstubhie" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="63" height="50" alt="instagram logo"  />
+  </a>
+</div>
+
+###
 
 # 💻 Skills:
 <br clear="both">
