@@ -7,19 +7,19 @@
 ## 🌐 Contact me:
 <div align="center">
   <a href="https://www.linkedin.com/in/kstubhie/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="63" height="50" alt="linkedin logo"  />
+    <img src="https://github.com/kstubhieeee/kstubhieeee/blob/main/linkedin-svgrepo-com.svg" width="63" height="50" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/kstubhiee" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="63" height="50" alt="twitter logo"  />
+    <img src="https://github.com/kstubhieeee/kstubhieeee/blob/main/twitter-svgrepo-com.svg" width="63" height="50" alt="twitter logo"  />
   </a>
   <a href="https://discord.gg/UqRgRK9wXy" target="_blank">
     <img src="https://github.com/kstubhieeee/kstubhieeee/blob/main/discord-v2-svgrepo-com.svg" width="63" height="50" alt="discord logo"  />
   </a>
   <a href="https://www.youtube.com/@kstubhie" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="63" height="50" alt="youtube logo"  />
+    <img src="https://github.com/kstubhieeee/kstubhieeee/blob/main/youtube-color-svgrepo-com.svg" width="63" height="50" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/kstubhie" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="63" height="50" alt="instagram logo"  />
+    <img src="https://github.com/kstubhieeee/kstubhieeee/blob/main/instagram-1-svgrepo-com.svg" width="63" height="50" alt="instagram logo"  />
   <a href="https://in.pinterest.com/kstubhie/" target="_blank">
     <img src="https://github.com/kstubhieeee/kstubhieeee/blob/main/pinterest-svgrepo-com.svg" width="63" height="50" alt="instagram logo"  />
   </a>
