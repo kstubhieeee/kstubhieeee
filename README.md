@@ -1,10 +1,6 @@
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
 ![Poster](https://github.com/kstubhieeee/kstubhieeee/blob/main/vsgif_com_cyberpunk-gif_.3556745.gif)
-
-
-
 
 ###
 <div align="center">
