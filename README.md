@@ -9,7 +9,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,bash,blender,bootstrap,c,cpp,codepen,css,dart" />
+    <img src="https://skillicons.dev/icons?i=git,github,bash,blender,bootstrap,c,cpp,codepen,css,dart,express,figma,firebase,flutter" />
   </a>
 </p>
 
