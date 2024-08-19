@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
-![Poster](https://github.com/kstubhieeee/kstubhieeee/blob/main/vsgif_com_cyberpunk-gif_.3556745.gif)
-
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br>
 ###
 <div align="center">
 <h1>Toolbox🧑🏻‍💻</h1>
