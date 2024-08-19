@@ -5,7 +5,6 @@
 <br>
 ###
 <div align="center">
-<h1>Toolbox🧑🏻‍💻</h1>
 <br clear="both">
 </div>
 <div align="center">
