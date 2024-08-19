@@ -17,8 +17,6 @@
 
 <div align="center">
     <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kstubhieeee&theme=gotham&hide_border=false" /><br/>
-    <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kstubhieeee&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
     <br/>
 </div>
