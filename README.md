@@ -8,10 +8,17 @@
 <br clear="both">
 </div>
 <p align="center">
-  <a align="center" href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=bootstrap,css,express,figma,firebase,git,html,js,jquery,mongodb,mysql,nextjs,nodejs,react,redux,tailwind" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,express,figma,firebase,git,html,js" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,nextjs,nodejs,react,redux,tailwind" />
+  </a>
+</p>
+
 
 
 
