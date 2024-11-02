@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
 <br>
-<img src="https://github.com/kstubhieeee/CreativeNexus/blob/master/banner%20(1).png" >
+<img src="https://github.com/kstubhieeee/CreativeNexus/blob/master/banner%20gif.gif" >
 <br>
 ###
 <div align="center">
